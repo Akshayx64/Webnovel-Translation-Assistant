@@ -50,6 +50,12 @@ Not reading on twkan? No problem. Open the script and look for these parts:
 *   **The Watermark:** Look for the .replace() line and swap out the Chinese text for whatever watermark your site likes to hide in the chapters.
     
 *   **The Prompt:** You can change the "Translate the following..." text to whatever instructions you prefer.
+
+
+Disclaimer
+----------
+
+Just a heads up: I built this using AI (Gemini) to help automate my reading flow. It works great for me, but since it's AI-generated, feel free to look through the code if you want to customize it further or check how it's handling the text.
     
 
 License
