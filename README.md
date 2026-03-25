@@ -8,7 +8,7 @@ Quick Install
 
 If you already have Tampermonkey installed, you can just click the link below to add the script to your browser:
 
-[**➔ Click here to Install the Script**](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/script.user.js)
+[**➔ Click here to Install the Script**](https://github.com/Akshayx64/Webnovel-Translation-Assistant/blob/main/twkan%20LLM%20Prompt%20Copier%20(with%20Shortcut)-1.5.user.js)
 
 Getting started (Manual Install)
 --------------------------------
