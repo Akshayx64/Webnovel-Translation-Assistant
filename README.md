@@ -1,0 +1,1 @@
+# Webnovel-Translation-Assistant
